@@ -35,7 +35,7 @@
       },
       {
         "title": "> Salvatore.skills",
-        "content": "[\"Dgraph\", \"RethinkDB\", \"CouchDB\", \"MongoDB\", \"Go\", \"Python\", \"Node.js\", \"REST API\", \"GraphQL API\", \"Angular\", \"React\", \"Apollo GraphQL\", \"RxJS\", \"NgRX\", \"Flutter\"]"
+        "content": "[\"Dgraph\", \"RethinkDB\", \"CouchDB\", \"Redis\", \"MongoDB\", \"Go\", \"Python\", \"Node.js\", \"REST API\", \"GraphQL API\", \"Angular\", \"React\", \"Apollo GraphQL\", \"RxJS\", \"NgRX\", \"Flutter\", \"Docker\", \"Docker-Compose\"]"
       }
     ]
   },
